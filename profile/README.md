@@ -1,4 +1,4 @@
-## Hi there 👋 We're Mindcraft Commnity Edition
+## Hi there 👋 We're Mindcraft Community Edition
 
 <!--
 
