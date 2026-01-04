@@ -30,7 +30,7 @@ We found the original Mindcraft project had become stale, and inactive. We took 
 * And much, much more.
 
 ### What is the Andy API?
-The **Andy API** is a distributed framework that allows people to donate their resources to a **public pool** for people to access AI models donaters wish to contribute.
+The **Andy API** is a distributed framework that allows people to donate their resources to a **public pool** for people to access AI models donors wish to contribute.
 
 The Andy API is highly configurable, allowing direct access to what people can access, and **how much.**
 
