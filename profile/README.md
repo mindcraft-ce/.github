@@ -42,4 +42,4 @@ We believe in privacy, so you don't have to worry about the following:
 You get to choose what is used, and what doesn't get used.
 
 ### What is Andy-4?
-**Andy-4** is a model designed by Sweaterdog to allow users without access to a paid API key to still enjoy Mindcraft-CE. The model comes in 2 sizes, a larger and a smaller varient, and is highly capable compared to SOTA models like Gemini 2.5 Pro.
+**Andy-4** is a model designed by Sweaterdog to allow users without access to a paid API key to still enjoy Mindcraft-CE. The model comes in 2 sizes, a larger and a smaller variant, and is highly capable compared to SOTA models like Gemini 2.5 Pro.
