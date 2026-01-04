@@ -25,7 +25,7 @@ We found the original Mindcraft project had become stale, and inactive. We took 
 * Establish a rich presense in the **Mindcraft** community.
 * Make AI models **designed** to play Minecraft.
 * Establish a **free, public API** for users to use, and donate their resources to.
-* Improve **pathfinding** for the bots to use **Doors,** and avoid breaking **Glass.**
+* Improve **pathfinding** for the bots to use **doors,** and avoid breaking **glass.**
 * Add **RAG,** and **Realtime Information** via searching on the Minecraft Wiki.
 * And much, much more.
 
