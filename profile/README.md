@@ -13,7 +13,7 @@
 This organization takes the power of [Mindcraft](https://github.com/mindcraft-bots/mindcraft) and expands on it, creating a faster moving fork with more community feedback than the original repo.
 
 ### Who runs it?
-Mindcraft-CE is ran by **4 people:**
+Mindcraft-CE is run by **4 people:**
 * riqvip
 * MrElmida
 * uukelele
