@@ -22,7 +22,7 @@ Mindcraft-CE is run by **4 people:**
 We found the original Mindcraft project had become stale, and inactive. We took initiative and revived it with the Community Edition, making large changes.
 
 ### What we've done
-* Establish a rich presense in the **Mindcraft** community.
+* Establish a rich presence in the **Mindcraft** community.
 * Make AI models **designed** to play Minecraft.
 * Establish a **free, public API** for users to use, and donate their resources to.
 * Improve **pathfinding** for the bots to use **doors,** and avoid breaking **glass.**
