@@ -35,11 +35,10 @@ The **Andy API** is a distributed framework that allows people to donate their r
 The Andy API is highly configurable, allowing direct access to what people can access, and **how much.**
 
 We believe in privacy, so you don't have to worry about the following:
-* IP Logging
 * External access to your PC
 * Ability to have new models be downloaded
 
 You get to choose what is used, and what doesn't get used.
 
-### What is Andy-4?
-**Andy-4** is a model designed by Sweaterdog to allow users without access to a paid API key to still enjoy Mindcraft-CE. The model comes in 2 sizes, a larger and a smaller variant, and is highly capable compared to SOTA models like Gemini 2.5 Pro.
+### What is Andy-4.2?
+**Andy-4.2** is a model designed by Sweaterdog to allow users without access to a paid API key to still enjoy Mindcraft-CE. The model comes in 2 sizes, a larger and a smaller variant, and is highly capable compared to SOTA models like Gemini 3.1 Pro.
